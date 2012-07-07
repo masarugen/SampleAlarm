@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SampleAlarm</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_alarm">SampleAlarm</string>
+    <string name="setalarm">setAlarm</string>
+    <string name="setrepeat">setRepeat</string>
+    <string name="cancelrepeat">cancelRepeat</string>
+
+</resources>
